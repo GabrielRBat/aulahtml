@@ -25,6 +25,7 @@ header{
 main{
     grid-area: main;
    background-color: blue;
+   min-width: 320px;
 }   
 aside{
     grid-area: aside;
